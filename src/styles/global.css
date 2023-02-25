@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --body-font-family: "Raleway", "sans-serif";
+    height: 100% !important;
+}
+
+body {
+    font-family: var(--body-font-family);
+    background-color: #cad3e5;
+    height: 100% !important;
+}
+
+
+button {
+    background-color: unset;
+}
+
+.none {
+    display: none;
+}
+
