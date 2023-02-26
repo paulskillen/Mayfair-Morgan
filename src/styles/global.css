@@ -13,7 +13,6 @@ body {
     height: 100% !important;
 }
 
-
 button {
     background-color: unset;
 }
@@ -21,4 +20,3 @@ button {
 .none {
     display: none;
 }
-
