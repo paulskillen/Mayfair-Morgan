@@ -21,7 +21,7 @@ const HomePage: React.FC<IHomePageProps> = ({ id }) => {
                             International Mobile Data
                         </div>
                         <img
-                            className="w-full h-auto lg:h-72"
+                            className="w-full lg:h-72"
                             alt="logo"
                             src="/images/logo/logo.png"
                         />
@@ -31,7 +31,7 @@ const HomePage: React.FC<IHomePageProps> = ({ id }) => {
                             Property Management
                         </div>
                         <img
-                            className="w-full h-auto lg:h-72"
+                            className="w-full lg:h-72"
                             alt="logo"
                             src="/images/placeholder/background.jpeg"
                         />
